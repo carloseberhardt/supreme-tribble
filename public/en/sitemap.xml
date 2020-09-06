@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>site01.c3b.dev/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="site01.c3b.dev/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="site01.c3b.dev/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>site01.c3b.dev/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="site01.c3b.dev/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="site01.c3b.dev/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>site01.c3b.dev/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="site01.c3b.dev/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="site01.c3b.dev/"
+                />
+  </url>
+  
+  <url>
+    <loc>site01.c3b.dev/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="site01.c3b.dev/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="site01.c3b.dev/tags/"
+                />
+  </url>
+  
+</urlset>

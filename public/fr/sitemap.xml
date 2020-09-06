@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>site01.c3b.dev/fr/categories/</loc>
+    <loc>https://site01.c3b.dev/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="site01.c3b.dev/categories/"
+                href="https://site01.c3b.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="site01.c3b.dev/fr/categories/"
+                href="https://site01.c3b.dev/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>site01.c3b.dev/fr/series/</loc>
+    <loc>https://site01.c3b.dev/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="site01.c3b.dev/series/"
+                href="https://site01.c3b.dev/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="site01.c3b.dev/fr/series/"
+                href="https://site01.c3b.dev/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>site01.c3b.dev/fr/</loc>
+    <loc>https://site01.c3b.dev/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="site01.c3b.dev/"
+                href="https://site01.c3b.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="site01.c3b.dev/fr/"
+                href="https://site01.c3b.dev/fr/"
                 />
   </url>
   
   <url>
-    <loc>site01.c3b.dev/fr/tags/</loc>
+    <loc>https://site01.c3b.dev/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="site01.c3b.dev/tags/"
+                href="https://site01.c3b.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="site01.c3b.dev/fr/tags/"
+                href="https://site01.c3b.dev/fr/tags/"
                 />
   </url>
   

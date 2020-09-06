@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>site01.c3b.dev/en/sitemap.xml</loc>
+	   	<loc>https://site01.c3b.dev/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>site01.c3b.dev/fr/sitemap.xml</loc>
+	   	<loc>https://site01.c3b.dev/fr/sitemap.xml</loc>
 		
 	</sitemap>
 	

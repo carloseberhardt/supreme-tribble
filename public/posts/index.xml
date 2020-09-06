@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Static Tests</title>
+        <link>https://site01.c3b.dev/posts/</link>
+        <description>Recent content in Posts on Static Tests</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 06 Sep 2020 09:18:43 -0500</lastBuildDate>
+        <atom:link href="https://site01.c3b.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>First Post</title>
+            <link>https://site01.c3b.dev/posts/2020/09/first-post/</link>
+            <pubDate>Sun, 06 Sep 2020 09:18:43 -0500</pubDate>
+            
+            <guid>https://site01.c3b.dev/posts/2020/09/first-post/</guid>
+            <description>First Post This is the first post. This is just a placeholder.</description>
+            <content type="html"><![CDATA[<h2 id="first-post">First Post</h2>
+<p>This is the first post. This is just a placeholder.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
